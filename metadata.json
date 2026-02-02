@@ -1,0 +1,7 @@
+{
+  "name": "Mundo de las Multiplicaciones Mágicas",
+  "description": "Una aplicación educativa y colorida diseñada para que niñas de 7 años aprendan las tablas de multiplicar de forma progresiva, con repasos, validaciones y un sistema de recompensas mágicas.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
